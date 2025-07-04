@@ -1,0 +1,317 @@
+------------------------------Welcome to the e-commerce system------------------------------
+
+
+You are now entering the products available in the system
+-------------------------------------------------------------
+
+You are entering the product number 1 :
+-------------------------------------------------------------
+Please enter the product name:
+Milk
+Please enter the product price:
+-5
+Please enter a positive value
+You are entering the product number 1 :
+-------------------------------------------------------------
+Please enter the product name:
+milk
+Please enter the product price:
+50
+Please enter the product quantity:
+10
+Does this product have an expiry date? (Y/N)
+Y
+Please enter the product expiration date (YYYY-MM-DD):
+2025-07-15
+Does this product require shipping? (Y/N)
+Y
+Please enter the product weight in Kilo grams:
+1
+Product added successfully!
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 10
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Do you want to add more products? (Y/N)
+Y
+You are entering the product number 2 :
+-------------------------------------------------------------
+Please enter the product name:
+chips
+Please enter the product price:
+5
+Please enter the product quantity:
+100
+Does this product have an expiry date? (Y/N)
+N
+Does this product require shipping? (Y/N)
+Y
+Please enter the product weight in Kilo grams:
+0.15
+Product added successfully!
+Product:
+name : 'chips'
+price per unit = 5.0
+quantity = 100
+weight per unit = 0.15
+
+Do you want to add more products? (Y/N)
+Y
+You are entering the product number 3 :
+-------------------------------------------------------------
+Please enter the product name:
+Scratch Card
+Please enter the product price:
+10
+Please enter the product quantity:
+100
+Does this product have an expiry date? (Y/N)
+N
+Does this product require shipping? (Y/N)
+N
+Product added successfully!
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 100
+
+Do you want to add more products? (Y/N)
+N
+
+
+You have finished entering the products available in the system
+-------------------------------------------------------------
+
+Please enter the name of the customer:
+zain
+Please enter the customer balance:
+-100
+Please do not enter a negative value
+Please enter the name of the customer:
+zain
+Please enter the customer balance:
+500
+
+------------------------------Welcome zain------------------------------/n
+Please choose the action you want. Choose a number from the following list.
+1 Add item to the cart
+2 Remove item from the cart
+3 Checkout 
+3
+Checking out your cart...
+You can not checkout because your cart is empty
+Please choose the action you want. Choose a number from the following list.
+1 Add item to the cart
+2 Remove item from the cart
+3 Checkout 
+1
+Here are the available products
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 10
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Product:
+name : 'chips'
+price per unit = 5.0
+quantity = 100
+weight per unit = 0.15
+
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 100
+
+Please enter the name of the product you want to add to the cart:
+milk
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 10
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Your current balance is : 500.0
+Please enter the quantity you want to add:
+150
+Insufficient quantity available.
+Please choose the action you want. Choose a number from the following list.
+1 Add item to the cart
+2 Remove item from the cart
+3 Checkout 
+1
+Here are the available products
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 10
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Product:
+name : 'chips'
+price per unit = 5.0
+quantity = 100
+weight per unit = 0.15
+
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 100
+
+Please enter the name of the product you want to add to the cart:
+milk
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 10
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Your current balance is : 500.0
+Please enter the quantity you want to add:
+15
+Insufficient quantity available.
+Please choose the action you want. Choose a number from the following list.
+1 Add item to the cart
+2 Remove item from the cart
+3 Checkout 
+1
+Here are the available products
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 10
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Product:
+name : 'chips'
+price per unit = 5.0
+quantity = 100
+weight per unit = 0.15
+
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 100
+
+Please enter the name of the product you want to add to the cart:
+milk
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 10
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Your current balance is : 500.0
+Please enter the quantity you want to add:
+3
+Item added to cart successfully!
+Please choose the action you want. Choose a number from the following list.
+1 Add item to the cart
+2 Remove item from the cart
+3 Checkout 
+1
+Here are the available products
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 7
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Product:
+name : 'chips'
+price per unit = 5.0
+quantity = 100
+weight per unit = 0.15
+
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 100
+
+Please enter the name of the product you want to add to the cart:
+Scratch Card
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 100
+
+Your current balance is : 350.0
+Please enter the quantity you want to add:
+90
+Insufficient balance to add this item to the cart.
+Please choose the action you want. Choose a number from the following list.
+1 Add item to the cart
+2 Remove item from the cart
+3 Checkout 
+1
+Here are the available products
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 7
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Product:
+name : 'chips'
+price per unit = 5.0
+quantity = 100
+weight per unit = 0.15
+
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 100
+
+Please enter the name of the product you want to add to the cart:
+Scratch Card
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 100
+
+Your current balance is : 350.0
+Please enter the quantity you want to add:
+3
+Item added to cart successfully!
+Please choose the action you want. Choose a number from the following list.
+1 Add item to the cart
+2 Remove item from the cart
+3 Checkout 
+3
+Checking out your cart...
+These are the items in your cart:
+Product:
+name : 'milk'
+price per unit = 50.0
+quantity = 3
+expirationDate : '2025-07-15'
+weight per unit = 1.0
+
+Product:
+name : 'Scratch Card'
+price per unit = 10.0
+quantity = 3
+
+** Shipment Notice **
+3x milk	3.0kg
+Total package weight is 3.0
+** Checkout Receipt **
+3x milk	150.0
+3x Scratch Card	30.0
+Subtotal 180.0
+Shipping 15.0
+Total 195.0
+Your current balance after purchase is : 320.0
+
+Process finished with exit code 0
